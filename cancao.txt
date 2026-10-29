@@ -20,9 +20,5 @@ Ano passado eu morri
 Mas esse ano eu não morro
 Ano passado eu morri
 Mas esse ano eu não morro
-<<<<<<< HEAD
-A vida tem um repositório,
-=======
 
 
->>>>>>> a1b7e3d (Altera linha 4: versão vencer)
