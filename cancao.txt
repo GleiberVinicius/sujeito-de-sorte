@@ -25,4 +25,4 @@ E o merge traz um conflito;
 Os commits que nós criamos
 Ficam no histórico, fica escrito.
 
-Mais um verso para testar o squash
+Mais um verso para testar o squash, ajustado
